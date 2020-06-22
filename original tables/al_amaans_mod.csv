@@ -1,0 +1,7 @@
+mod_id,group,name,price,level
+1,1,no ice,20,0
+2,1,hot,0,0
+3,1,normal,0,0
+4,1,25% sugar,0,1
+5,1,50% sugar,0,1
+6,1,75% sugar,0,1

@@ -1,0 +1,13 @@
+id,order_id,level,name,price
+2,59,0,no ice,20
+3,59,1,50% sugar,0
+4,60,0,no ice,20
+7,60,1,25% sugar,0
+8,61,0,no ice,20
+9,61,1,25% sugar,0
+11,62,0,normal,0
+12,62,1,75% sugar,0
+13,64,0,no ice,20
+14,64,1,50% sugar,0
+15,65,0,no ice,20
+16,65,1,50% sugar,0
